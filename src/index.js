@@ -8,6 +8,8 @@ const employeesList = [
     // new branch test
 ];
 
+// added text in 911 branch only for test 02
+
 <<<<<<< HEAD
 // ad this is text in bug 911
 =======
