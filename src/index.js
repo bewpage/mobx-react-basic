@@ -8,6 +8,7 @@ const employeesList = [
     // new branch test
 ];
 
+// new staff in release/1.1.0 branch only
 ReactDOM.render(
     <App/>,
     document.querySelector('#root')
