@@ -8,7 +8,11 @@ const employeesList = [
     // new branch test
 ];
 
+<<<<<<< HEAD
 // ad this is text in bug 911
+=======
+// new staff in release/1.1.0 branch only
+>>>>>>> 21adad2d1bc2a150f5c92dfffdcf527998fe1d65
 ReactDOM.render(
     <App/>,
     document.querySelector('#root')
