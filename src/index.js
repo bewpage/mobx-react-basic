@@ -8,6 +8,7 @@ const employeesList = [
     // new branch test
 ];
 
+// ad this is text in bug 911
 ReactDOM.render(
     <App/>,
     document.querySelector('#root')
